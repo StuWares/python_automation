@@ -1,3 +1,5 @@
+# Unsorted tips that I've picked up while learning!
+
 input() always returns a string.
 using input to receive a number will require explicit coercion.
 
@@ -9,7 +11,7 @@ float()
 eg: string(29) outputs '29'
 or
 myAge = 29
-print('I am no longer ' + string(myAge) + ' years old' )#
+print('I am no longer ' + string(myAge) + ' years old' )
 
 An integer can be equal to a float:
 3.00 == 3
