@@ -14,3 +14,8 @@ print('I am no longer ' + string(myAge) + ' years old' )#
 An integer can be equal to a float:
 3.00 == 3
 true
+
+### Boolean order of operation
+1. not
+2. and
+3. or
